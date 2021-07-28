@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chickenmomo-s
 - 👀 I’m interested in web dev and data analytics
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
